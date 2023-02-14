@@ -4,3 +4,4 @@ sexo: Masculino
 Direccion: Blas de Lezo Mz 8 Lt 17 Et 3
 Pais: Colombia
 Estatura: 1.73
+Profesion: Ingeniero de sistemas
